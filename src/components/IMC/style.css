@@ -1,0 +1,10 @@
+.IMC {
+    padding: 40px 0;
+    background-color: #ccc;
+    margin: 20px auto;
+    width: 1000px;
+}
+
+.IMC h2 {
+    color: red;
+}
